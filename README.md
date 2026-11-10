@@ -1,13 +1,13 @@
 # Denis (Aurbey)
 **Systems, Game & Software Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-denispervov-18181b?style=flat-square&logo=linkedin&logoColor=white&labelColor=09090b)](https://www.linkedin.com/in/denispervov)
-[![Engineering](https://img.shields.io/badge/Engineering-1off.pro-18181b?style=flat-square&labelColor=09090b)](https://1off.pro)
-[![Realty](https://img.shields.io/badge/Realty-realty.1off.pro-18181b?style=flat-square&labelColor=09090b)](https://realty.1off.pro)
-[![LiveOps](https://img.shields.io/badge/LiveOps-cubometre.online-18181b?style=flat-square&labelColor=09090b)](https://cubometre.online)
-[![YouTube](https://img.shields.io/badge/YouTube-Steve%20Blocks-18181b?style=flat-square&logo=youtube&logoColor=white&labelColor=09090b)](https://www.youtube.com/@SteveBlocks012)
-[![Twitch](https://img.shields.io/badge/Twitch-aurbey012-18181b?style=flat-square&logo=twitch&logoColor=white&labelColor=09090b)](https://www.twitch.tv/aurbey012)
-[![Discord](https://img.shields.io/badge/Discord-Steve%20Blocks-18181b?style=flat-square&logo=discord&logoColor=white&labelColor=09090b)](https://discord.gg/JNA8TwBtBe)
+[![cubometre.online](https://img.shields.io/badge/platform-cubometre.online-334155?style=flat-square&labelColor=1e293b)](https://cubometre.online)
+[![YouTube](https://img.shields.io/badge/youtube-Steve%20Blocks-334155?style=flat-square&logo=youtube&logoColor=white&labelColor=1e293b)](https://www.youtube.com/@SteveBlocks012)
+[![Twitch](https://img.shields.io/badge/twitch-aurbey012-334155?style=flat-square&logo=twitch&logoColor=white&labelColor=1e293b)](https://www.twitch.tv/aurbey012)
+[![Discord](https://img.shields.io/badge/discord-Steve%20Blocks-334155?style=flat-square&logo=discord&logoColor=white&labelColor=1e293b)](https://discord.gg/JNA8TwBtBe)
+[![1off.pro](https://img.shields.io/badge/engineering-1off.pro-334155?style=flat-square&labelColor=1e293b)](https://1off.pro)
+[![realty.1off.pro](https://img.shields.io/badge/realty-realty.1off.pro-334155?style=flat-square&labelColor=1e293b)](https://realty.1off.pro)
+[![LinkedIn](https://img.shields.io/badge/linkedin-denispervov-334155?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e293b)](https://www.linkedin.com/in/denispervov)
 
 Systems and software engineer. I build dedicated Linux infrastructure, live-ops game backends, computer vision tools, and production web services.
 
